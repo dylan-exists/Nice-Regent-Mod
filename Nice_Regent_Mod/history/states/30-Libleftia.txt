@@ -1,0 +1,21 @@
+state = {
+	id = 30
+	name = "Commune of Libleftia"
+	
+	manpower = 69420
+	state_category = town
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 119 6 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1 
+		}
+	}
+
+	provinces = {
+	119 268 123 39 267 146 63 166 240
+	}
+}

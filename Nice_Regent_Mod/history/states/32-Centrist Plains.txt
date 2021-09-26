@@ -1,0 +1,16 @@
+state = {
+	id = 32
+	name = "Centrist Plains"
+	
+	manpower = 3781
+	state_category = rural
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+	}
+
+	provinces = {
+	 344 291 46 279 30 330 331 104 129 218 295
+	}
+}

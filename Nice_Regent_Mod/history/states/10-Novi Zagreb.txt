@@ -1,0 +1,22 @@
+state = {
+	id = 10
+	name = "Novi Zagreb"
+	
+	manpower = 678913
+	state_category = large_city
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 75 10 }
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+	75 164 292 161 210 89 305 92 57
+	}
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 15
+	name = "Biggest Port"
+	
+	manpower = 12567
+	state_category = metropolis
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 301 5 }
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		301
+	}
+}

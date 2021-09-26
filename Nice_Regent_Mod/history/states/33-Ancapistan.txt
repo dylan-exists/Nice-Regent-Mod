@@ -1,0 +1,17 @@
+state = {
+	id = 33
+	name = "Ancapistan"
+	
+	manpower = 187581
+	state_category = town
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 143 6 }
+	}
+
+	provinces = {
+	239 22 215 270 176 348 120 241 317 60 345 143 186 155
+	}
+}

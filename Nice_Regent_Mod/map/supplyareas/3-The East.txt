@@ -1,0 +1,7 @@
+supply_area={
+	id=3
+	name="The East"
+	value=12
+	states={
+		10 22 25 26 23
+}

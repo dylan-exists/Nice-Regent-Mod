@@ -1,0 +1,22 @@
+state = {
+	id = 7
+	name = "Zaibatsu Island"
+	
+	manpower = 17125
+	state_category = town
+	
+	history = {
+		owner = ZAI
+		add_core_of = ZAI
+		victory_points = { 311 5 }
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+	247 78 311 62 255 162 302 127 327 125 304 105 213 90 190 
+	}
+}

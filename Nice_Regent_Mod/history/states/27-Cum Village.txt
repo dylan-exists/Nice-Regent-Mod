@@ -1,0 +1,17 @@
+state = {
+	id = 27
+	name = "Cum Village"
+	
+	manpower = 37891
+	state_category = town
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 341 5 }
+	}
+
+	provinces = {
+	341 136 86 207 328 200
+	}
+}

@@ -1,0 +1,16 @@
+name="Nice Regent Mod"
+tags={
+	"Map"
+	"Utilities"
+}
+picture="blank_map_template_5632x2048.jpg"
+replace_path="common/bookmarks"
+replace_path="history/countries"
+replace_path="history/states"
+replace_path="map/strategicregions"
+replace_path="map/supplyareas"
+replace_path="events"
+replace_path="portraits"
+replace_path="country_leader"
+supported_version="1.10.*"
+path="C:/Users/User/Documents/Paradox Interactive/Hearts of Iron IV/mod/Nice_Regent_Mod"

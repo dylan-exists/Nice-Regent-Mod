@@ -1,0 +1,7 @@
+supply_area={
+	id=2
+	name="Insanity Forest"
+	value=12
+	states={
+		11 24
+}

@@ -1,0 +1,7 @@
+supply_area={
+	id=6
+	name="West Coast"
+	value=12
+	states={
+		18 19 20 21 27
+}

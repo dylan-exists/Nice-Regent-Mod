@@ -1,0 +1,22 @@
+state = {
+	id = 14
+	name = "Piss Town"
+	
+	manpower = 1865109
+	state_category = large_town
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 34 2 }
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+	211 56 34 51 50 321
+	}
+}

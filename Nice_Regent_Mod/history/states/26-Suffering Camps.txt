@@ -1,0 +1,17 @@
+state = {
+	id = 26
+	name = "Suffering Camps"
+	
+	manpower = 50000
+	state_category = town
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 133 5 }
+	}
+
+	provinces = {
+	133 228 236 23 168 84 351 179 249 1372
+	}
+}

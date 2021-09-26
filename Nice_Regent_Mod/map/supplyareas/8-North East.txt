@@ -1,0 +1,7 @@
+supply_area={
+	id=8
+	name="North East"
+	value=12
+	states={
+		36 37 38
+}

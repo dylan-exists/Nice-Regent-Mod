@@ -1,0 +1,7 @@
+supply_area={
+	id=9
+	name="Zaibatsu Island"
+	value=12
+	states={
+		7
+}

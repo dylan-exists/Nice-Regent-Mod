@@ -1,0 +1,17 @@
+state = {
+	id = 6
+	name = "Biggest Hill"
+	
+	manpower = 187
+	state_category = pastoral
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 115 5 }
+	}
+
+	provinces = {
+		326 115 121
+	}
+}

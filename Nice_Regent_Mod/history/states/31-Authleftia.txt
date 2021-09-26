@@ -1,0 +1,22 @@
+state = {
+	id = 31
+	name = "Authleftia"
+	
+	manpower = 191784
+	state_category = town
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 67 6 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+	}
+
+	provinces = {
+	 261 21 67 72 70 231 74 342 114 251 28 19 106
+	}
+}

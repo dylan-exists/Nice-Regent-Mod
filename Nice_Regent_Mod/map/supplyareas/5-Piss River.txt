@@ -1,0 +1,7 @@
+supply_area={
+	id=5
+	name="Piss River"
+	value=12
+	states={
+		17 16 12 13 14 
+}

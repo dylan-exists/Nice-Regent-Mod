@@ -1,0 +1,16 @@
+state = {
+	id = 22
+	name = "The Great and Allmighty territories created with an express purpose of Shitposting"
+	
+	manpower = 73120
+	state_category = rural
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+	}
+
+	provinces = {
+	158 132 235 175 128 65 112 167 281 25 204 99 269 20 281
+	}
+}

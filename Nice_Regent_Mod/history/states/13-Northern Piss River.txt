@@ -1,0 +1,22 @@
+state = {
+	id = 13
+	name = "Northern Piss River"
+	
+	manpower = 62709
+	state_category = town
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 37 2 }
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+	183 26 356 37 110 201 284
+	}
+}

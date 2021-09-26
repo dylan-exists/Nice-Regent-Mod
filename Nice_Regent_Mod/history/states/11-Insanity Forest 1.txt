@@ -1,0 +1,22 @@
+state = {
+	id = 11
+	name = "Forest of Insanity"
+	
+	manpower = 26781
+	state_category = town
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 319 5 }
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+	2 257 250 79 38 61 77 193 357 319 258 94 320
+	}
+}

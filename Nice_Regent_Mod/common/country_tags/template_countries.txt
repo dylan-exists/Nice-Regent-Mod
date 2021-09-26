@@ -1,0 +1,3 @@
+TST = "countries/Test.txt"
+NRG = "countries/Nice Regent.txt"
+ZAI = "countries/Zaibatsu.txt"

@@ -1,0 +1,16 @@
+state = {
+	id = 36
+	name = "Pain National Park"
+
+	manpower = 239
+	state_category = rural
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+	}
+
+	provinces = {
+	 272 16 206 244 208 197 131 7 303 275 130 73 337 71 151
+	}
+}

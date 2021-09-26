@@ -1,0 +1,7 @@
+supply_area={
+	id=7
+	name="Political Cum Piss"
+	value=12
+	states={
+		30 31 32 33 34
+}

@@ -1,0 +1,21 @@
+state = {
+	id = 19
+	name = "North Shit City"
+	
+	manpower = 1673921
+	state_category = city
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 35 5 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+		}
+	}
+
+	provinces = {
+	35 252 232 282 271 188 354 32
+	}
+}

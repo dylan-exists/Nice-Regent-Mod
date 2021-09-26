@@ -1,0 +1,21 @@
+state = {
+	id = 18
+	name = "South Shit City"
+	
+	manpower = 1564983
+	state_category = city
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 242 5 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+	}
+
+	provinces = {
+	47 242 334 54 1 138 203
+	}
+}

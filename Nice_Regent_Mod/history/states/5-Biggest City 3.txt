@@ -1,0 +1,24 @@
+state = {
+	id = 5
+	name = "Biggest City Outskirts"
+	
+	manpower = 276896
+	state_category = metropolis
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 107 5 }
+		victory_points = { 276 1 }
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces = {
+		107 276 212 299 6 283
+	}
+}

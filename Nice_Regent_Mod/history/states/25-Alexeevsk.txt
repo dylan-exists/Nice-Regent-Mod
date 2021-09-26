@@ -1,0 +1,17 @@
+state = {
+	id = 25
+	name = "Alexeevsk"
+	
+	manpower = 48760
+	state_category = town
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 4 5 }
+	}
+
+	provinces = {
+	4 49 300 323 153 290 230
+	}
+}

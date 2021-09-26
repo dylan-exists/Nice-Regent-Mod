@@ -1,0 +1,17 @@
+state = {
+	id = 38
+	name = "TNO Reference Valley"
+	
+	manpower = 4651
+	state_category = rural
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+
+	}
+
+	provinces = {
+	329 101 174 349 150 263 223 233 316 53 5 3 347 95 85 266 187 124 149
+	}
+}

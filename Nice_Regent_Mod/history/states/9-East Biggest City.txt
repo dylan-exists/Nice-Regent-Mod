@@ -1,0 +1,22 @@
+state = {
+	id = 9
+	name = "East Biggest City"
+	
+	manpower = 2134908
+	state_category = metropolis
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 69 5 }
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+	156 237 333 209 265 253 69 243 234 157
+	}
+}

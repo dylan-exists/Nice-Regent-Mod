@@ -1,0 +1,7 @@
+supply_area={
+	id=4
+	name="Schizo Mountains"
+	value=12
+	states={
+		28 35 29
+}

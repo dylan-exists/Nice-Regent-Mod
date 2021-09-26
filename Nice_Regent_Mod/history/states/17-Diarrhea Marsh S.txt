@@ -1,0 +1,16 @@
+state = {
+	id = 17
+	name = "Diarrhea Marsh"
+	
+	manpower = 12751
+	state_category = pastoral
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+	}
+
+	provinces = {
+	14 103 313 280 170
+	}
+}

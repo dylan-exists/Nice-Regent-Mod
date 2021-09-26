@@ -1,0 +1,22 @@
+state = {
+	id = 12
+	name = "Southern Piss River Estuary"
+	
+	manpower = 35674
+	state_category = town
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 314 5 }
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+	314 126 246 64 294 325
+	}
+}

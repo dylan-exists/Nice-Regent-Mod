@@ -1,0 +1,22 @@
+state = {
+	id = 8
+	name = "Lays Slums"
+	
+	manpower = 2569810
+	state_category = metropolis
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 68 5 }
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+	76 309 184 359 68 
+	}
+}

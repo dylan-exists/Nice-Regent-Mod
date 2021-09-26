@@ -1,0 +1,22 @@
+state = {
+	id = 2
+	name = "Biggest City South West"
+	
+	manpower = 3509351
+	state_category = metropolis
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 287 5 }
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		287 260 140 147 
+	}
+}

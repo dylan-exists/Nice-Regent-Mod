@@ -1,0 +1,20 @@
+state = {
+	id = 21
+	name = "Stool County"
+	
+	manpower = 189741
+	state_category = town
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+	109 42 336 9 332 198 180 293
+	}
+}

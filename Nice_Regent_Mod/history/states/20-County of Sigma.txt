@@ -1,0 +1,20 @@
+state = {
+	id = 20
+	name = "Sigma County"
+	
+	manpower = 241960
+	state_category = town
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+	}
+
+	provinces = {
+	154 96 352 142 192 278 308 350 10 324
+	}
+}

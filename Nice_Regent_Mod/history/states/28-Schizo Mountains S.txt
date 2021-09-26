@@ -1,0 +1,17 @@
+state = {
+	id = 28
+	name = "Southern Schizo Mountains"
+	
+	manpower = 2385
+	state_category = rural
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+
+	}
+
+	provinces = {
+	59 217 238 87 259 82 13 191 296 152 148 224 169 93 111 196 289 12 220 41 27 277 225 195 229
+	}
+}

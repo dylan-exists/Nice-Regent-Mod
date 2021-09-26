@@ -1,0 +1,17 @@
+state = {
+	id = 34
+	name = "Authrightia"
+	
+	manpower = 286918
+	state_category = town
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 122 6 }
+	}
+
+	provinces = {
+	264 122 43 108 343 199 340 286 8 315 339
+	}
+}

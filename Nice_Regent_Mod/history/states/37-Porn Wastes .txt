@@ -1,0 +1,16 @@
+state = {
+	id = 37
+	name = "The Porn Wastes"
+
+	manpower = 239
+	state_category = rural
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+	}
+
+	provinces = {
+	 274 285 135 177 338 226 163 312 310 178 81 29 36 18 335 141
+	}
+}

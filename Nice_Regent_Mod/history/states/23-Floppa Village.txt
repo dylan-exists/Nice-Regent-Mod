@@ -1,0 +1,17 @@
+state = {
+	id = 23
+	name = "Floppa Village"
+	
+	manpower = 673891
+	state_category = town
+	
+	history = {
+		owner = NRG
+		add_core_of = NRG
+		victory_points = { 88 5 }
+	}
+
+	provinces = {
+	40 182 88 97 194 245 98
+	}
+}
